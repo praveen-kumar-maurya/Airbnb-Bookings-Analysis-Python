@@ -62,21 +62,42 @@ Business objective for performing an exploratory data analysis (EDA) on the Airb
 
 Based on the insights gained from the EDA of the Airbnb NYC 2019 dataset, here are some potential solutions to the business objectives:
 
-1.   Increase revenue:
+1. Optimize Listings in High-Demand Locations
+Focus on Manhattan and Brooklyn: These areas have the highest density of properties and demand. Promote listings in neighborhoods like Williamsburg, Bedford-Stuyvesant, and Harlem, which already attract significant interest.
 
-*   Analyze the pricing trends in different neighborhoods based on different criterions and adjust the pricing strategy to maximize revenue.
-*   Provide additional amenities or services to increase the perceived value of the listing and justify higher prices.
+Highlight Unique Selling Points: For Manhattan properties, emphasize luxury and exclusivity since it is the costliest neighborhood. For Brooklyn, focus on affordability and vibrant culture.
 
+2. Prioritize Entire Home/Apt Listings
+Since "Entire home/apt" is the most preferred room type (2095% higher than shared rooms), prioritize marketing and maintaining these listings. Ensure these properties are well-furnished and provide privacy to meet guest expectations.
 
-2.   Improve occupancy rate:
+3. Dynamic Pricing Strategies
+Adjust Prices Based on Demand: Use dynamic pricing tools to optimize nightly rates based on local demand trends, seasonality, and competitor pricing.
 
-*   Improve the listing description and photos to better showcase the property and increase its appeal to potential guests.
+Leverage Medium Price Category: Most properties fall into the medium price range, which aligns with guest preferences. Keep competitive pricing while offering added value to stand out.
 
-3. Enhance guest experience:
+4. Improve Guest Experience
+Enhance Amenities: Add sought-after features like pools, hot tubs, or outdoor kitchens for premium listings. For budget-friendly options, include thoughtful touches like high-quality linens or welcome baskets.
 
-*   Provide high-quality amenities and services, such as reliable Wi-Fi, comfortable bedding, and helpful local recommendations, to improve guest satisfaction and encourage positive reviews.
-*   Respond promptly and courteously to guest inquiries and complaints to build a positive reputation and encourage repeat business.
-*   Use guest feedback to identify areas for improvement and implement changes to enhance the overall guest experience.
+Offer Unique Experiences: Collaborate with local businesses to offer curated experiences such as guided tours, cooking classes, or cultural activities. This can justify higher rates and attract more bookings.
 
+5. Increase Occupancy Rates
+Fill Unoccupied Nights: Promote listings through social media, Google ads, and cross-promotion with local businesses to attract more guests.
 
-Overall, the key to achieving these business objectives is to leverage the insights gained from the Airbnb NYC 2019 dataset to make data-driven decisions and continuously iterate on the strategies to achieve optimal results.
+Target Underutilized Properties: Focus on properties that have received few or no reviews (e.g., those inactive from 2011–2017). Offer discounts or promotions to encourage bookings and generate reviews.
+
+6. Leverage Top Hosts’ Expertise
+Promote hosts like Michael (Brooklyn) and Sonder (Manhattan) who manage a large number of properties successfully. Highlight their expertise in managing entire homes/apartments or medium-priced listings to build trust with potential guests.
+
+7. Encourage Reviews
+Since 28% of properties lacked reviews in 2019, incentivize guests to leave reviews by offering perks like early check-ins or small gifts. Positive reviews will boost visibility and credibility.
+
+8. Diversify Property Offerings
+Expand listings in underserved categories like shared rooms or low-price properties in neighborhoods where demand exists (e.g., Bedford-Stuyvesant for low-price private rooms). This can capture budget-conscious travelers.
+
+9. Promote Costly Neighborhoods Strategically
+For high-end neighborhoods like Fort Wadsworth, emphasize exclusivity and luxury experiences to attract affluent travelers willing to pay premium prices.
+
+10. Partner with Local Businesses
+Collaborate with restaurants, tour operators, or event organizers to create bundled packages (e.g., discounted meals or guided city tours). This enhances guest experience while generating additional revenue streams.
+
+By implementing these strategies tailored to the insights provided, Airbnb hosts can maximize occupancy rates, enhance guest satisfaction, and significantly increase revenue potential.
